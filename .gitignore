@@ -1,0 +1,11 @@
+# keep shared data local but do not commit
+input_data/**
+*.zip
+*.7z
+*.rar
+*.dta
+*.xlsx
+*.xls
+*.tif
+
+raw_data/**
