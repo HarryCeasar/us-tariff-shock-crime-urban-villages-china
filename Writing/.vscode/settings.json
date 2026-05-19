@@ -1,0 +1,45 @@
+{
+  // LaTeX Workshop: make the correct build chain the default for biblatex+biber
+  "latex-workshop.latex.tools": [
+    {
+      "name": "xelatex",
+      "command": "xelatex",
+      "cwd": "%DIR%",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "%DOC%"
+      ]
+    },
+    {
+      "name": "biber",
+      "command": "biber",
+      "cwd": "%DIR%",
+      "args": [
+        "--input-directory=%DIR%",
+        "--output-directory=%DIR%",
+        "%DOCFILE%"
+      ]
+    }
+  ],
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "xelatex -> biber -> xelatex*2",
+      "tools": ["xelatex", "biber", "xelatex", "xelatex"]
+    },
+    {
+      "name": "xelatex*2 (no biber)",
+      "tools": ["xelatex", "xelatex"]
+    }
+  ],
+  "latex-workshop.latex.recipe.default": "xelatex -> biber -> xelatex*2",
+  // IMPORTANT: keep aux/bcf/bbl in the same folder as the root tex file,
+  // otherwise biber may not find %DOCFILE%.bcf when outDir is set globally.
+  "latex-workshop.latex.outDir": "",
+  // Prevent LaTeX Workshop from auto-cleaning aux files (including .bcf)
+  // and retrying in the middle of a recipe when a tool returns a non-zero code.
+  "latex-workshop.latex.autoBuild.cleanAndRetry.enabled": false,
+  "latex-workshop.latex.autoBuild.run": "never",
+  "latex-workshop.latex.build.enableMagicComments": true
+}

@@ -1,0 +1,229 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global/global}
+    \entry{bown2021trade}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1c87f98385cfe8558d4658e84d654fbb}{%
+           family={Bown},
+           familyi={B\bibinitperiod},
+           given={Chad\bibnamedelima P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1c87f98385cfe8558d4658e84d654fbb}
+      \strng{fullhash}{1c87f98385cfe8558d4658e84d654fbb}
+      \strng{fullhashraw}{1c87f98385cfe8558d4658e84d654fbb}
+      \strng{bibnamehash}{1c87f98385cfe8558d4658e84d654fbb}
+      \strng{authorbibnamehash}{1c87f98385cfe8558d4658e84d654fbb}
+      \strng{authornamehash}{1c87f98385cfe8558d4658e84d654fbb}
+      \strng{authorfullhash}{1c87f98385cfe8558d4658e84d654fbb}
+      \strng{authorfullhashraw}{1c87f98385cfe8558d4658e84d654fbb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Policy Modeling}
+      \field{number}{4}
+      \field{title}{The {US}--{China} Trade War and Phase One Agreement}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Bown, Chad P.}
+      \field{userf}{Bown, Chad P.}
+      \field{volume}{43}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{805\bibrangedash 843}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1016/j.jpolmod.2021.02.009
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{amiti2019impact}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8bd1ddd490e50f40cdc6e2e2e1ee7a3e}{%
+           family={Amiti},
+           familyi={A\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29db3ac8f93041c5506aa68eca7e6163}{%
+           family={Redding},
+           familyi={R\bibinitperiod},
+           given={Stephen\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47c27dd2ba229f6ab4beac36eff73733}{%
+           family={Weinstein},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7d1af71c388b3ec60032ca67992e80f1}
+      \strng{fullhash}{3f4f44d871dad834707327320fe83d00}
+      \strng{fullhashraw}{3f4f44d871dad834707327320fe83d00}
+      \strng{bibnamehash}{3f4f44d871dad834707327320fe83d00}
+      \strng{authorbibnamehash}{3f4f44d871dad834707327320fe83d00}
+      \strng{authornamehash}{7d1af71c388b3ec60032ca67992e80f1}
+      \strng{authorfullhash}{3f4f44d871dad834707327320fe83d00}
+      \strng{authorfullhashraw}{3f4f44d871dad834707327320fe83d00}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Perspectives}
+      \field{number}{4}
+      \field{title}{The Impact of the 2018 Tariffs on Prices and Welfare}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Amiti, Mary and Redding, Stephen J. and Weinstein, David E.}
+      \field{userf}{Amiti, Mary and Redding, Stephen J. and Weinstein, David E.}
+      \field{volume}{33}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{187\bibrangedash 210}
+      \range{pages}{24}
+      \keyw{en}
+    \endentry
+    \entry{fajgelbaum2020return}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7b078032683823f5b04a69f0c0110a90}{%
+           family={Fajgelbaum},
+           familyi={F\bibinitperiod},
+           given={Pablo\bibnamedelima D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ada12cfabb615fef57f9211c52cece45}{%
+           family={Goldberg},
+           familyi={G\bibinitperiod},
+           given={Pinelopi\bibnamedelima K.},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1fe9aa75b792f4ff4b4f31fe2fefd4df}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Patrick\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61dec229a1a2c817e1a02081ba6389cb}{%
+           family={Khandelwal},
+           familyi={K\bibinitperiod},
+           given={Amit\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8b06d4c883a05c58dae3dd143075e023}
+      \strng{fullhash}{196846ddc9f7dddab875e6669d92c4fa}
+      \strng{fullhashraw}{196846ddc9f7dddab875e6669d92c4fa}
+      \strng{bibnamehash}{196846ddc9f7dddab875e6669d92c4fa}
+      \strng{authorbibnamehash}{196846ddc9f7dddab875e6669d92c4fa}
+      \strng{authornamehash}{8b06d4c883a05c58dae3dd143075e023}
+      \strng{authorfullhash}{196846ddc9f7dddab875e6669d92c4fa}
+      \strng{authorfullhashraw}{196846ddc9f7dddab875e6669d92c4fa}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Quarterly Journal of Economics}
+      \field{number}{1}
+      \field{title}{The Return to Protectionism}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Fajgelbaum, Pablo D. and Goldberg, Pinelopi K. and Kennedy, Patrick J. and Khandelwal, Amit K.}
+      \field{userf}{Fajgelbaum, Pablo D. and Goldberg, Pinelopi K. and Kennedy, Patrick J. and Khandelwal, Amit K.}
+      \field{volume}{135}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 55}
+      \range{pages}{55}
+      \verb{doi}
+      \verb 10.1093/qje/qjz036
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{ma2025market}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=5d38fb894354b4d9907d6b0143642902}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xiao},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fe684156df801ab301cf9940468e7aa}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Yueyuan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5068d15ae23110f6d674436dd13eaf05}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Hanyi},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c7200e4b0c3035cbd3caf92698aa359}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yiran},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{49444e0a5d688c31a958bc42b99d4530}
+      \strng{fullhash}{d936553699363fa5998f0d1ed725ee25}
+      \strng{fullhashraw}{d936553699363fa5998f0d1ed725ee25}
+      \strng{bibnamehash}{d936553699363fa5998f0d1ed725ee25}
+      \strng{authorbibnamehash}{d936553699363fa5998f0d1ed725ee25}
+      \strng{authornamehash}{49444e0a5d688c31a958bc42b99d4530}
+      \strng{authorfullhash}{d936553699363fa5998f0d1ed725ee25}
+      \strng{authorfullhashraw}{d936553699363fa5998f0d1ed725ee25}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SSRN Electronic Journal}
+      \field{title}{Market Contraction and Innovation Divergence: The Impact of the US-China Trade War on Chinese Innovation}
+      \field{usera}{J}
+      \field{userd}{M}
+      \field{usere}{Ma, Xiao and Ma, Yueyuan and Tao, Hanyi and Zhang, Yiran}
+      \field{userf}{Ma, Xiao and Ma, Yueyuan and Tao, Hanyi and Zhang, Yiran}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.2139/ssrn.5455894
+      \endverb
+      \keyw{en}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

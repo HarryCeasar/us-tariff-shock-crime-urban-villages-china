@@ -1,0 +1,1644 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{presort/global//global/global/global}
+    \entry{machao2016report}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=269b602990e6996f9731e8d30cbe0a19}{%
+           family={马超},
+           familyi={马\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=07a2a29fb484e3a9140e056dba30d0d3}{%
+           family={于晓虹},
+           familyi={于\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=56452f123ac6327320691af63ad21918}{%
+           family={何海波},
+           familyi={何\bibinitperiod}}}%
+      }
+      \strng{namehash}{e71e639897a766fc4a9598b4f04f0b66}
+      \strng{fullhash}{30ffd0ee05f5e81666d75575a14c4438}
+      \strng{fullhashraw}{30ffd0ee05f5e81666d75575a14c4438}
+      \strng{bibnamehash}{30ffd0ee05f5e81666d75575a14c4438}
+      \strng{authorbibnamehash}{30ffd0ee05f5e81666d75575a14c4438}
+      \strng{authornamehash}{e71e639897a766fc4a9598b4f04f0b66}
+      \strng{authorfullhash}{30ffd0ee05f5e81666d75575a14c4438}
+      \strng{authorfullhashraw}{30ffd0ee05f5e81666d75575a14c4438}
+      \field{sortinit}{0}
+      \field{sortinithash}{c5602f03f17cc894ea7a6362c3cb0e13}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{中国法律评论}
+      \field{number}{4}
+      \field{title}{大数据分析：中国司法裁判文书上网公开报告}
+      \field{usera}{J}
+      \field{userd}{大}
+      \field{usere}{马超 and 于晓虹 and 何海波}
+      \field{userf}{马超 and 于晓虹 and 何海波}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{195\bibrangedash 246}
+      \range{pages}{52}
+      \keyw{zh}
+    \endentry
+    \entry{tang2018open}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7068edb38e736ac858440d6c165bed8b}{%
+           family={唐应茂},
+           familyi={唐\bibinitperiod}}}%
+      }
+      \strng{namehash}{7068edb38e736ac858440d6c165bed8b}
+      \strng{fullhash}{7068edb38e736ac858440d6c165bed8b}
+      \strng{fullhashraw}{7068edb38e736ac858440d6c165bed8b}
+      \strng{bibnamehash}{7068edb38e736ac858440d6c165bed8b}
+      \strng{authorbibnamehash}{7068edb38e736ac858440d6c165bed8b}
+      \strng{authornamehash}{7068edb38e736ac858440d6c165bed8b}
+      \strng{authorfullhash}{7068edb38e736ac858440d6c165bed8b}
+      \strng{authorfullhashraw}{7068edb38e736ac858440d6c165bed8b}
+      \field{sortinit}{0}
+      \field{sortinithash}{c5602f03f17cc894ea7a6362c3cb0e13}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{清华法学}
+      \field{number}{4}
+      \field{title}{司法公开及其决定因素：基于中国裁判文书网的数据分析}
+      \field{usera}{J}
+      \field{userd}{司}
+      \field{usere}{唐应茂}
+      \field{userf}{唐应茂}
+      \field{volume}{12}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{35\bibrangedash 47}
+      \range{pages}{13}
+      \keyw{zh}
+    \endentry
+    \entry{wanghao2023builtup}{dataset}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6ef2eb3938fe6af1bc09a161766ff1ac}{%
+           family={王浩},
+           familyi={王\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {中国测绘科学研究院}%
+      }
+      \strng{namehash}{6ef2eb3938fe6af1bc09a161766ff1ac}
+      \strng{fullhash}{6ef2eb3938fe6af1bc09a161766ff1ac}
+      \strng{fullhashraw}{6ef2eb3938fe6af1bc09a161766ff1ac}
+      \strng{bibnamehash}{6ef2eb3938fe6af1bc09a161766ff1ac}
+      \strng{authorbibnamehash}{6ef2eb3938fe6af1bc09a161766ff1ac}
+      \strng{authornamehash}{6ef2eb3938fe6af1bc09a161766ff1ac}
+      \strng{authorfullhash}{6ef2eb3938fe6af1bc09a161766ff1ac}
+      \strng{authorfullhashraw}{6ef2eb3938fe6af1bc09a161766ff1ac}
+      \field{sortinit}{0}
+      \field{sortinithash}{c5602f03f17cc894ea7a6362c3cb0e13}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{2015年中国地级以上城市优于2米分辨率建成区产品数据集}
+      \field{userd}{2}
+      \field{usere}{王浩}
+      \field{userf}{王浩}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.12237/casearth.653884a5819aec0f26f48765
+      \endverb
+      \keyw{zh}
+    \endentry
+    \entry{xu2021tariffs}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8de2a50eb56bf6891b852f0e35593c1b}{%
+           family={徐政},
+           familyi={徐\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=aeb878dced84353f4e2c93e617df96f3}{%
+           family={丁守海},
+           familyi={丁\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=7f978d4fa1dcf7df03a3cb71b4b8099d}{%
+           family={曾丹},
+           familyi={曾\bibinitperiod}}}%
+      }
+      \strng{namehash}{e4788c8f09e22115022580434c8e8bee}
+      \strng{fullhash}{e9e679725a5bea08c1118341586c20d4}
+      \strng{fullhashraw}{e9e679725a5bea08c1118341586c20d4}
+      \strng{bibnamehash}{e9e679725a5bea08c1118341586c20d4}
+      \strng{authorbibnamehash}{e9e679725a5bea08c1118341586c20d4}
+      \strng{authornamehash}{e4788c8f09e22115022580434c8e8bee}
+      \strng{authorfullhash}{e9e679725a5bea08c1118341586c20d4}
+      \strng{authorfullhashraw}{e9e679725a5bea08c1118341586c20d4}
+      \field{sortinit}{0}
+      \field{sortinithash}{c5602f03f17cc894ea7a6362c3cb0e13}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{系统工程}
+      \field{title}{美国加征进口关税对中国企业出口的影响——基于出口企业的生产动态视角}
+      \field{usera}{J}
+      \field{userd}{美}
+      \field{usere}{徐政 and 丁守海 and 曾丹}
+      \field{userf}{徐政 and 丁守海 and 曾丹}
+      \field{volume}{39}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{34\bibrangedash 47}
+      \range{pages}{14}
+      \keyw{zh}
+    \endentry
+    \entry{yi2023povertycrime}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=310bdef995284c0d0929a4ad72831970}{%
+           family={易梦洁},
+           familyi={易\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=34335a422c20101477522811174b3db5}{%
+           family={李嘉晟},
+           familyi={李\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=5c85214bd55de714a49c25c9174db68f}{%
+           family={申广军},
+           familyi={申\bibinitperiod}}}%
+      }
+      \strng{namehash}{0853a84a20528487db3117135fc7f846}
+      \strng{fullhash}{df88888f437b6d325fff406ae07cde97}
+      \strng{fullhashraw}{df88888f437b6d325fff406ae07cde97}
+      \strng{bibnamehash}{df88888f437b6d325fff406ae07cde97}
+      \strng{authorbibnamehash}{df88888f437b6d325fff406ae07cde97}
+      \strng{authornamehash}{0853a84a20528487db3117135fc7f846}
+      \strng{authorfullhash}{df88888f437b6d325fff406ae07cde97}
+      \strng{authorfullhashraw}{df88888f437b6d325fff406ae07cde97}
+      \field{sortinit}{0}
+      \field{sortinithash}{c5602f03f17cc894ea7a6362c3cb0e13}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{经济学(季刊)}
+      \field{title}{精准扶贫能减少刑事犯罪吗？——来自裁判文书数据的经验证据}
+      \field{usera}{J}
+      \field{userd}{精}
+      \field{usere}{易梦洁 and 李嘉晟 and 申广军}
+      \field{userf}{易梦洁 and 李嘉晟 and 申广军}
+      \field{volume}{23}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{2332\bibrangedash 2349}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.13821/j.cnki.ceq.2023.06.16
+      \endverb
+      \keyw{zh}
+    \endentry
+    \entry{tatem2017worldpop}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=74438a101caea6ec34867c145dc30811}{%
+           family={Tatem},
+           familyi={T\bibinitperiod},
+           given={Andrew\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{74438a101caea6ec34867c145dc30811}
+      \strng{fullhash}{74438a101caea6ec34867c145dc30811}
+      \strng{fullhashraw}{74438a101caea6ec34867c145dc30811}
+      \strng{bibnamehash}{74438a101caea6ec34867c145dc30811}
+      \strng{authorbibnamehash}{74438a101caea6ec34867c145dc30811}
+      \strng{authornamehash}{74438a101caea6ec34867c145dc30811}
+      \strng{authorfullhash}{74438a101caea6ec34867c145dc30811}
+      \strng{authorfullhashraw}{74438a101caea6ec34867c145dc30811}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Data}
+      \field{title}{WorldPop, Open Data for Spatial Demography}
+      \field{usera}{J}
+      \field{userd}{W}
+      \field{usere}{Tatem, Andrew J.}
+      \field{userf}{Tatem, Andrew J.}
+      \field{volume}{4}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{170004}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/sdata.2017.4
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/sdata20174
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/sdata20174
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{liu2016segmentation}{report}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b53d2e7554dcee5bfd1077e870ad7f9b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Cathy\bibnamedelima Yang},
+           giveni={C\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f12458352bf48d8ebe2ba46b11310c19}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=977291822b9132f7a6c8e1bd0de29205}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Huiping},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Lincoln Institute of Land Policy}%
+      }
+      \strng{namehash}{a4fd25d1931383e503a46eb5dacdd36b}
+      \strng{fullhash}{5b18f99a9dce822f583e5ab6a4debb3a}
+      \strng{fullhashraw}{5b18f99a9dce822f583e5ab6a4debb3a}
+      \strng{bibnamehash}{5b18f99a9dce822f583e5ab6a4debb3a}
+      \strng{authorbibnamehash}{5b18f99a9dce822f583e5ab6a4debb3a}
+      \strng{authornamehash}{a4fd25d1931383e503a46eb5dacdd36b}
+      \strng{authorfullhash}{5b18f99a9dce822f583e5ab6a4debb3a}
+      \strng{authorfullhashraw}{5b18f99a9dce822f583e5ab6a4debb3a}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{WP16CL1}
+      \field{title}{The Segmentation of Urban Housing and Labor Markets in China: The Case of Shanghai}
+      \field{type}{Working Paper}
+      \field{usera}{R}
+      \field{userd}{T}
+      \field{usere}{Liu, Cathy Yang and Chen, Jie and Li, Huiping}
+      \field{userf}{Liu, Cathy Yang and Chen, Jie and Li, Huiping}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.lincolninst.edu/publications/working-papers/segmentation-urban-housing-and-labor-markets-china-case-shanghai
+      \endverb
+      \verb{url}
+      \verb https://www.lincolninst.edu/publications/working-papers/segmentation-urban-housing-and-labor-markets-china-case-shanghai
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{bown2021trade}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1c87f98385cfe8558d4658e84d654fbb}{%
+           family={Bown},
+           familyi={B\bibinitperiod},
+           given={Chad\bibnamedelima P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1c87f98385cfe8558d4658e84d654fbb}
+      \strng{fullhash}{1c87f98385cfe8558d4658e84d654fbb}
+      \strng{fullhashraw}{1c87f98385cfe8558d4658e84d654fbb}
+      \strng{bibnamehash}{1c87f98385cfe8558d4658e84d654fbb}
+      \strng{authorbibnamehash}{1c87f98385cfe8558d4658e84d654fbb}
+      \strng{authornamehash}{1c87f98385cfe8558d4658e84d654fbb}
+      \strng{authorfullhash}{1c87f98385cfe8558d4658e84d654fbb}
+      \strng{authorfullhashraw}{1c87f98385cfe8558d4658e84d654fbb}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Policy Modeling}
+      \field{number}{4}
+      \field{title}{The {US}--{China} Trade War and Phase One Agreement}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Bown, Chad P.}
+      \field{userf}{Bown, Chad P.}
+      \field{volume}{43}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{805\bibrangedash 843}
+      \range{pages}{39}
+      \verb{doi}
+      \verb 10.1016/j.jpolmod.2021.02.009
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{himmelberg2005assessing}{report}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=884a692c5c0afc8cc817873c730676f3}{%
+           family={Himmelberg},
+           familyi={H\bibinitperiod},
+           given={Charles},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=848356b1e788916d0a4152a0299f8632}{%
+           family={Mayer},
+           familyi={M\bibinitperiod},
+           given={Christopher},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93bfdf4f640820942e652d1faa107fc4}{%
+           family={Sinai},
+           familyi={S\bibinitperiod},
+           given={Todd},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Federal Reserve Bank of New York}%
+      }
+      \strng{namehash}{07241f8f4c45a583c90a55737198bf8f}
+      \strng{fullhash}{400a6ca627139da8ce55e68a0c34def2}
+      \strng{fullhashraw}{400a6ca627139da8ce55e68a0c34def2}
+      \strng{bibnamehash}{400a6ca627139da8ce55e68a0c34def2}
+      \strng{authorbibnamehash}{400a6ca627139da8ce55e68a0c34def2}
+      \strng{authornamehash}{07241f8f4c45a583c90a55737198bf8f}
+      \strng{authorfullhash}{400a6ca627139da8ce55e68a0c34def2}
+      \strng{authorfullhashraw}{400a6ca627139da8ce55e68a0c34def2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{218}
+      \field{title}{Assessing High House Prices: Bubbles, Fundamentals, and Misperceptions}
+      \field{type}{Staff Report}
+      \field{usera}{R}
+      \field{userd}{A}
+      \field{usere}{Himmelberg, Charles and Mayer, Christopher and Sinai, Todd}
+      \field{userf}{Himmelberg, Charles and Mayer, Christopher and Sinai, Todd}
+      \field{year}{2005}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr218.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.newyorkfed.org/medialibrary/media/research/staff_reports/sr218.pdf
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{marx2019knowing}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=083eb1d9e3be3f31587c3b042ba80fcc}{%
+           family={Marx},
+           familyi={M\bibinitperiod},
+           given={Colin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b36ca35d8ab1da5038bd13371a46fd7}{%
+           family={Kelling},
+           familyi={K\bibinitperiod},
+           given={Emily},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1f2c0f19b47499ee56c1ca9496d48be1}
+      \strng{fullhash}{d302d771476c3f5d0cb6c244b587a385}
+      \strng{fullhashraw}{d302d771476c3f5d0cb6c244b587a385}
+      \strng{bibnamehash}{d302d771476c3f5d0cb6c244b587a385}
+      \strng{authorbibnamehash}{d302d771476c3f5d0cb6c244b587a385}
+      \strng{authornamehash}{1f2c0f19b47499ee56c1ca9496d48be1}
+      \strng{authorfullhash}{d302d771476c3f5d0cb6c244b587a385}
+      \strng{authorfullhashraw}{d302d771476c3f5d0cb6c244b587a385}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Urban Studies}
+      \field{number}{3}
+      \field{title}{Knowing urban informalities}
+      \field{usera}{J}
+      \field{userd}{K}
+      \field{usere}{Marx, Colin and Kelling, Emily}
+      \field{userf}{Marx, Colin and Kelling, Emily}
+      \field{volume}{56}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{494\bibrangedash 509}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1177/0042098018770848
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{autor2013china}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=68f91bcaddbb4b488aea7cb0c43b670d}{%
+           family={Autor},
+           familyi={A\bibinitperiod},
+           given={David\bibnamedelima H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ed98663662c03115a1f8a6926baf48c}{%
+           family={Dorn},
+           familyi={D\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24446967244bf7b38251395f8613c654}{%
+           family={Hanson},
+           familyi={H\bibinitperiod},
+           given={Gordon\bibnamedelima H.},
+           giveni={G\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1f155a39c5c8e280b00e6bed0bf4143f}
+      \strng{fullhash}{720d30422eeddf188b369dde409da5ec}
+      \strng{fullhashraw}{720d30422eeddf188b369dde409da5ec}
+      \strng{bibnamehash}{720d30422eeddf188b369dde409da5ec}
+      \strng{authorbibnamehash}{720d30422eeddf188b369dde409da5ec}
+      \strng{authornamehash}{1f155a39c5c8e280b00e6bed0bf4143f}
+      \strng{authorfullhash}{720d30422eeddf188b369dde409da5ec}
+      \strng{authorfullhashraw}{720d30422eeddf188b369dde409da5ec}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Review}
+      \field{number}{6}
+      \field{title}{The China Syndrome: Local Labor Market Effects of Import Competition in the United States}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Autor, David H. and Dorn, David and Hanson, Gordon H.}
+      \field{userf}{Autor, David H. and Dorn, David and Hanson, Gordon H.}
+      \field{volume}{103}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \field{pages}{2121\bibrangedash 2168}
+      \range{pages}{48}
+      \keyw{en}
+    \endentry
+    \entry{krueckeberg2004lessons}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=29e3f42245d8403f1b076e707a1ffda6}{%
+           family={Krueckeberg},
+           familyi={K\bibinitperiod},
+           given={Donald},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{29e3f42245d8403f1b076e707a1ffda6}
+      \strng{fullhash}{29e3f42245d8403f1b076e707a1ffda6}
+      \strng{fullhashraw}{29e3f42245d8403f1b076e707a1ffda6}
+      \strng{bibnamehash}{29e3f42245d8403f1b076e707a1ffda6}
+      \strng{authorbibnamehash}{29e3f42245d8403f1b076e707a1ffda6}
+      \strng{authornamehash}{29e3f42245d8403f1b076e707a1ffda6}
+      \strng{authorfullhash}{29e3f42245d8403f1b076e707a1ffda6}
+      \strng{authorfullhashraw}{29e3f42245d8403f1b076e707a1ffda6}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Housing Policy Debate}
+      \field{number}{1}
+      \field{title}{The Lessons of {John Locke} or {Hernando de Soto}: What if Your Dreams Come True?}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Krueckeberg, Donald}
+      \field{userf}{Krueckeberg, Donald}
+      \field{volume}{15}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 24}
+      \range{pages}{24}
+      \verb{doi}
+      \verb 10.1080/10511482.2004.9521492
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{miguel2004economic}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=14378045148a3551d5999a9b70b40ffe}{%
+           family={Miguel},
+           familyi={M\bibinitperiod},
+           given={Edward},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f6e1328b0ee2c857550bcfd59a393e4}{%
+           family={Satyanath},
+           familyi={S\bibinitperiod},
+           given={Shanker},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c5e38a83b15e9117e71d07b36a77f4d}{%
+           family={Sergenti},
+           familyi={S\bibinitperiod},
+           given={Ernest},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{379b3eaece2e57aa0eaea8ffdd5b712a}
+      \strng{fullhash}{64c7980cca2e28efa0a4e25b14d4a0b4}
+      \strng{fullhashraw}{64c7980cca2e28efa0a4e25b14d4a0b4}
+      \strng{bibnamehash}{64c7980cca2e28efa0a4e25b14d4a0b4}
+      \strng{authorbibnamehash}{64c7980cca2e28efa0a4e25b14d4a0b4}
+      \strng{authornamehash}{379b3eaece2e57aa0eaea8ffdd5b712a}
+      \strng{authorfullhash}{64c7980cca2e28efa0a4e25b14d4a0b4}
+      \strng{authorfullhashraw}{64c7980cca2e28efa0a4e25b14d4a0b4}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Political Economy}
+      \field{number}{4}
+      \field{title}{Economic Shocks and Civil Conflict: An Instrumental Variables Approach}
+      \field{usera}{J}
+      \field{userd}{E}
+      \field{usere}{Miguel, Edward and Satyanath, Shanker and Sergenti, Ernest}
+      \field{userf}{Miguel, Edward and Satyanath, Shanker and Sergenti, Ernest}
+      \field{volume}{112}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \field{pages}{725\bibrangedash 753}
+      \range{pages}{29}
+      \keyw{en}
+    \endentry
+    \entry{klinenberg2018palaces}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a7fc32164ce2ceb4a11abbb80dd0ce59}{%
+           family={Klinenberg},
+           familyi={K\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Crown}%
+      }
+      \strng{namehash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \strng{fullhash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \strng{fullhashraw}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \strng{bibnamehash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \strng{authorbibnamehash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \strng{authornamehash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \strng{authorfullhash}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \strng{authorfullhashraw}{a7fc32164ce2ceb4a11abbb80dd0ce59}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Palaces for the People: How Social Infrastructure Can Help Fight Inequality, Polarization, and the Decline of Civic Life}
+      \field{usera}{M}
+      \field{userd}{P}
+      \field{usere}{Klinenberg, Eric}
+      \field{userf}{Klinenberg, Eric}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \keyw{en}
+    \endentry
+    \entry{becker1968crime}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=72e0824c9fba8f7f957b80cb8dbe85d2}{%
+           family={Becker},
+           familyi={B\bibinitperiod},
+           given={Gary\bibnamedelima S.},
+           giveni={G\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{72e0824c9fba8f7f957b80cb8dbe85d2}
+      \strng{fullhash}{72e0824c9fba8f7f957b80cb8dbe85d2}
+      \strng{fullhashraw}{72e0824c9fba8f7f957b80cb8dbe85d2}
+      \strng{bibnamehash}{72e0824c9fba8f7f957b80cb8dbe85d2}
+      \strng{authorbibnamehash}{72e0824c9fba8f7f957b80cb8dbe85d2}
+      \strng{authornamehash}{72e0824c9fba8f7f957b80cb8dbe85d2}
+      \strng{authorfullhash}{72e0824c9fba8f7f957b80cb8dbe85d2}
+      \strng{authorfullhashraw}{72e0824c9fba8f7f957b80cb8dbe85d2}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Political Economy}
+      \field{number}{2}
+      \field{title}{Crime and Punishment: An Economic Approach}
+      \field{usera}{J}
+      \field{userd}{C}
+      \field{usere}{Becker, Gary S.}
+      \field{userf}{Becker, Gary S.}
+      \field{volume}{76}
+      \field{year}{1968}
+      \field{dateera}{ce}
+      \field{pages}{169\bibrangedash 217}
+      \range{pages}{49}
+      \keyw{en}
+    \endentry
+    \entry{ma2025export}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=9a25a3fa4776a39034dda40a0af8e744}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Hong},
+           giveni={H\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=d627c895a7726afc8a55a9fa241c4b19}{%
+           family={Pan},
+           familyi={P\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d321fcdd62deffd4345045b98f1ea917}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Mingzhi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a64aa2c3b24d86b30ca44da25379e891}
+      \strng{fullhash}{1c7aa23cccb2de5847ce70cd3bed0f04}
+      \strng{fullhashraw}{1c7aa23cccb2de5847ce70cd3bed0f04}
+      \strng{bibnamehash}{1c7aa23cccb2de5847ce70cd3bed0f04}
+      \strng{authorbibnamehash}{1c7aa23cccb2de5847ce70cd3bed0f04}
+      \strng{authornamehash}{a64aa2c3b24d86b30ca44da25379e891}
+      \strng{authorfullhash}{1c7aa23cccb2de5847ce70cd3bed0f04}
+      \strng{authorfullhashraw}{1c7aa23cccb2de5847ce70cd3bed0f04}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Economic Journal}
+      \field{note}{Advance access}
+      \field{title}{The Criminogenic Consequence of Export Slowdown: Evidence from Millions of Court Judgment Documents in China}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Ma, Hong and Pan, Yu and Xu, Mingzhi}
+      \field{userf}{Ma, Hong and Pan, Yu and Xu, Mingzhi}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.1093/ej/ueaf024
+      \endverb
+      \keyw{en,Advance access}
+    \endentry
+    \entry{santosSilva2006ppml}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=f7d9517834d099db2eb6466210af186b}{%
+           family={Santos\bibnamedelima Silva},
+           familyi={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={J.\bibnamedelimi M.\bibnamedelimi C.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=476ad06d8906e302627f01a0af0a60aa}{%
+           family={Tenreyro},
+           familyi={T\bibinitperiod},
+           given={Silvana},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ee4244cfd8a5b1387cab9e0431348cf6}
+      \strng{fullhash}{5fee8c56ab98325a272df0bb6cd9f37b}
+      \strng{fullhashraw}{5fee8c56ab98325a272df0bb6cd9f37b}
+      \strng{bibnamehash}{5fee8c56ab98325a272df0bb6cd9f37b}
+      \strng{authorbibnamehash}{5fee8c56ab98325a272df0bb6cd9f37b}
+      \strng{authornamehash}{ee4244cfd8a5b1387cab9e0431348cf6}
+      \strng{authorfullhash}{5fee8c56ab98325a272df0bb6cd9f37b}
+      \strng{authorfullhashraw}{5fee8c56ab98325a272df0bb6cd9f37b}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Review of Economics and Statistics}
+      \field{number}{4}
+      \field{title}{The Log of Gravity}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Santos Silva, J. M. C. and Tenreyro, Silvana}
+      \field{userf}{Santos Silva, J. M. C. and Tenreyro, Silvana}
+      \field{volume}{88}
+      \field{year}{2006}
+      \field{dateera}{ce}
+      \field{pages}{641\bibrangedash 658}
+      \range{pages}{18}
+      \keyw{en}
+    \endentry
+    \entry{gallin2004rents}{report}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b70ce2f4a932d6b13e1e3d4f00349c21}{%
+           family={Gallin},
+           familyi={G\bibinitperiod},
+           given={Joshua},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Board of Governors of the Federal Reserve System}%
+      }
+      \strng{namehash}{b70ce2f4a932d6b13e1e3d4f00349c21}
+      \strng{fullhash}{b70ce2f4a932d6b13e1e3d4f00349c21}
+      \strng{fullhashraw}{b70ce2f4a932d6b13e1e3d4f00349c21}
+      \strng{bibnamehash}{b70ce2f4a932d6b13e1e3d4f00349c21}
+      \strng{authorbibnamehash}{b70ce2f4a932d6b13e1e3d4f00349c21}
+      \strng{authornamehash}{b70ce2f4a932d6b13e1e3d4f00349c21}
+      \strng{authorfullhash}{b70ce2f4a932d6b13e1e3d4f00349c21}
+      \strng{authorfullhashraw}{b70ce2f4a932d6b13e1e3d4f00349c21}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{2004-50}
+      \field{title}{The Long-Run Relationship between House Prices and Rents}
+      \field{type}{FEDS Working Paper}
+      \field{usera}{R}
+      \field{userd}{T}
+      \field{usere}{Gallin, Joshua}
+      \field{userf}{Gallin, Joshua}
+      \field{year}{2004}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.federalreserve.gov/pubs/feds/2004/200450/200450pap.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.federalreserve.gov/pubs/feds/2004/200450/200450pap.pdf
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{loewenstein2023prices}{report}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=87759e28d998a27bd80c582396310096}{%
+           family={Loewenstein},
+           familyi={L\bibinitperiod},
+           given={Lara},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49e5d8bbc085f9b55dc806ff064ddf9b}{%
+           family={Willen},
+           familyi={W\bibinitperiod},
+           given={Paul\bibnamedelima S.},
+           giveni={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {National Bureau of Economic Research}%
+      }
+      \strng{namehash}{e8eee971b87aaf4c8c207bbad74c28c0}
+      \strng{fullhash}{d05f4d9c845dbe7c05e0ecd6e6cdfb8c}
+      \strng{fullhashraw}{d05f4d9c845dbe7c05e0ecd6e6cdfb8c}
+      \strng{bibnamehash}{d05f4d9c845dbe7c05e0ecd6e6cdfb8c}
+      \strng{authorbibnamehash}{d05f4d9c845dbe7c05e0ecd6e6cdfb8c}
+      \strng{authornamehash}{e8eee971b87aaf4c8c207bbad74c28c0}
+      \strng{authorfullhash}{d05f4d9c845dbe7c05e0ecd6e6cdfb8c}
+      \strng{authorfullhashraw}{d05f4d9c845dbe7c05e0ecd6e6cdfb8c}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{31013}
+      \field{title}{House Prices and Rents in the 21st Century}
+      \field{type}{NBER Working Paper}
+      \field{usera}{R}
+      \field{userd}{H}
+      \field{usere}{Loewenstein, Lara and Willen, Paul S.}
+      \field{userf}{Loewenstein, Lara and Willen, Paul S.}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nber.org/system/files/working_papers/w31013/w31013.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.nber.org/system/files/working_papers/w31013/w31013.pdf
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{granovetter1973strength}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=19600a6bee0d3a431e37dcbe16b17f50}{%
+           family={Granovetter},
+           familyi={G\bibinitperiod},
+           given={Mark\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{19600a6bee0d3a431e37dcbe16b17f50}
+      \strng{fullhash}{19600a6bee0d3a431e37dcbe16b17f50}
+      \strng{fullhashraw}{19600a6bee0d3a431e37dcbe16b17f50}
+      \strng{bibnamehash}{19600a6bee0d3a431e37dcbe16b17f50}
+      \strng{authorbibnamehash}{19600a6bee0d3a431e37dcbe16b17f50}
+      \strng{authornamehash}{19600a6bee0d3a431e37dcbe16b17f50}
+      \strng{authorfullhash}{19600a6bee0d3a431e37dcbe16b17f50}
+      \strng{authorfullhashraw}{19600a6bee0d3a431e37dcbe16b17f50}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Sociology}
+      \field{number}{6}
+      \field{title}{The Strength of Weak Ties}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Granovetter, Mark S.}
+      \field{userf}{Granovetter, Mark S.}
+      \field{volume}{78}
+      \field{year}{1973}
+      \field{dateera}{ce}
+      \field{pages}{1360\bibrangedash 1380}
+      \range{pages}{21}
+      \keyw{en}
+    \endentry
+    \entry{amiti2019impact}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8bd1ddd490e50f40cdc6e2e2e1ee7a3e}{%
+           family={Amiti},
+           familyi={A\bibinitperiod},
+           given={Mary},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=29db3ac8f93041c5506aa68eca7e6163}{%
+           family={Redding},
+           familyi={R\bibinitperiod},
+           given={Stephen\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=47c27dd2ba229f6ab4beac36eff73733}{%
+           family={Weinstein},
+           familyi={W\bibinitperiod},
+           given={David\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7d1af71c388b3ec60032ca67992e80f1}
+      \strng{fullhash}{3f4f44d871dad834707327320fe83d00}
+      \strng{fullhashraw}{3f4f44d871dad834707327320fe83d00}
+      \strng{bibnamehash}{3f4f44d871dad834707327320fe83d00}
+      \strng{authorbibnamehash}{3f4f44d871dad834707327320fe83d00}
+      \strng{authornamehash}{7d1af71c388b3ec60032ca67992e80f1}
+      \strng{authorfullhash}{3f4f44d871dad834707327320fe83d00}
+      \strng{authorfullhashraw}{3f4f44d871dad834707327320fe83d00}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Economic Perspectives}
+      \field{number}{4}
+      \field{title}{The Impact of the 2018 Tariffs on Prices and Welfare}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Amiti, Mary and Redding, Stephen J. and Weinstein, David E.}
+      \field{userf}{Amiti, Mary and Redding, Stephen J. and Weinstein, David E.}
+      \field{volume}{33}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{187\bibrangedash 210}
+      \range{pages}{24}
+      \keyw{en}
+    \endentry
+    \entry{gindelsky2019valuing}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a835803874736b24120e838eb72088f7}{%
+           family={Gindelsky},
+           familyi={G\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f076c334a30b0b54d140eb289d049b3}{%
+           family={Moulton},
+           familyi={M\bibinitperiod},
+           given={Jessica\bibnamedelima G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fbc7cac69d027118a5f598c11c1452da}{%
+           family={Wentland},
+           familyi={W\bibinitperiod},
+           given={Scott\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2048b1560b8554fb4b071e9e718ce8a1}
+      \strng{fullhash}{e18bd735b40e94c0d41b2445503d0535}
+      \strng{fullhashraw}{e18bd735b40e94c0d41b2445503d0535}
+      \strng{bibnamehash}{e18bd735b40e94c0d41b2445503d0535}
+      \strng{authorbibnamehash}{e18bd735b40e94c0d41b2445503d0535}
+      \strng{authornamehash}{2048b1560b8554fb4b071e9e718ce8a1}
+      \strng{authorfullhash}{e18bd735b40e94c0d41b2445503d0535}
+      \strng{authorfullhashraw}{e18bd735b40e94c0d41b2445503d0535}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{NBER-CRIW chapter draft}
+      \field{title}{Valuing Housing Services in the Era of Big Data: A User Cost Approach Leveraging Zillow Microdata}
+      \field{userd}{V}
+      \field{usere}{Gindelsky, Michael and Moulton, Jessica G. and Wentland, Scott A.}
+      \field{userf}{Gindelsky, Michael and Moulton, Jessica G. and Wentland, Scott A.}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nber.org/system/files/chapters/c14274/revisions/c14274.rev1.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.nber.org/system/files/chapters/c14274/revisions/c14274.rev1.pdf
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{mcpherson2001birds}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=40745d61073c99ee0def9458e6d38d5a}{%
+           family={McPherson},
+           familyi={M\bibinitperiod},
+           given={Miller},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2cc3684d579b36454501253f522f56ae}{%
+           family={Smith-Lovin},
+           familyi={S\bibinithyphendelim L\bibinitperiod},
+           given={Lynn},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f02d42a9cc100b9f9bea76683bf9e083}{%
+           family={Cook},
+           familyi={C\bibinitperiod},
+           given={James\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4f6db0d641093d4bbf43ddb74dedda28}
+      \strng{fullhash}{0e25a687f890d873d629cb622398054c}
+      \strng{fullhashraw}{0e25a687f890d873d629cb622398054c}
+      \strng{bibnamehash}{0e25a687f890d873d629cb622398054c}
+      \strng{authorbibnamehash}{0e25a687f890d873d629cb622398054c}
+      \strng{authornamehash}{4f6db0d641093d4bbf43ddb74dedda28}
+      \strng{authorfullhash}{0e25a687f890d873d629cb622398054c}
+      \strng{authorfullhashraw}{0e25a687f890d873d629cb622398054c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annual Review of Sociology}
+      \field{title}{Birds of a Feather: Homophily in Social Networks}
+      \field{usera}{J}
+      \field{userd}{B}
+      \field{usere}{McPherson, Miller and Smith-Lovin, Lynn and Cook, James M.}
+      \field{userf}{McPherson, Miller and Smith-Lovin, Lynn and Cook, James M.}
+      \field{volume}{27}
+      \field{year}{2001}
+      \field{dateera}{ce}
+      \field{pages}{415\bibrangedash 444}
+      \range{pages}{30}
+      \keyw{en}
+    \endentry
+    \entry{fajgelbaum2020return}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=7b078032683823f5b04a69f0c0110a90}{%
+           family={Fajgelbaum},
+           familyi={F\bibinitperiod},
+           given={Pablo\bibnamedelima D.},
+           giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ada12cfabb615fef57f9211c52cece45}{%
+           family={Goldberg},
+           familyi={G\bibinitperiod},
+           given={Pinelopi\bibnamedelima K.},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1fe9aa75b792f4ff4b4f31fe2fefd4df}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={Patrick\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61dec229a1a2c817e1a02081ba6389cb}{%
+           family={Khandelwal},
+           familyi={K\bibinitperiod},
+           given={Amit\bibnamedelima K.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8b06d4c883a05c58dae3dd143075e023}
+      \strng{fullhash}{196846ddc9f7dddab875e6669d92c4fa}
+      \strng{fullhashraw}{196846ddc9f7dddab875e6669d92c4fa}
+      \strng{bibnamehash}{196846ddc9f7dddab875e6669d92c4fa}
+      \strng{authorbibnamehash}{196846ddc9f7dddab875e6669d92c4fa}
+      \strng{authornamehash}{8b06d4c883a05c58dae3dd143075e023}
+      \strng{authorfullhash}{196846ddc9f7dddab875e6669d92c4fa}
+      \strng{authorfullhashraw}{196846ddc9f7dddab875e6669d92c4fa}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Quarterly Journal of Economics}
+      \field{number}{1}
+      \field{title}{The Return to Protectionism}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Fajgelbaum, Pablo D. and Goldberg, Pinelopi K. and Kennedy, Patrick J. and Khandelwal, Amit K.}
+      \field{userf}{Fajgelbaum, Pablo D. and Goldberg, Pinelopi K. and Kennedy, Patrick J. and Khandelwal, Amit K.}
+      \field{volume}{135}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{1\bibrangedash 55}
+      \range{pages}{55}
+      \verb{doi}
+      \verb 10.1093/qje/qjz036
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{goldsmithpinkham2020bartik}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f3ca973d5895ae6e5e148903f7218eca}{%
+           family={Goldsmith-Pinkham},
+           familyi={G\bibinithyphendelim P\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95a4c478dc1f368c14f4a266def33da7}{%
+           family={Sorkin},
+           familyi={S\bibinitperiod},
+           given={Isaac},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d82e901e935249954400a31db4bed9d5}{%
+           family={Swift},
+           familyi={S\bibinitperiod},
+           given={Henry},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e001c936d4a9015262ad3e3f8b188480}
+      \strng{fullhash}{3ce4feea136f7f4ee132c83fd6e48abb}
+      \strng{fullhashraw}{3ce4feea136f7f4ee132c83fd6e48abb}
+      \strng{bibnamehash}{3ce4feea136f7f4ee132c83fd6e48abb}
+      \strng{authorbibnamehash}{3ce4feea136f7f4ee132c83fd6e48abb}
+      \strng{authornamehash}{e001c936d4a9015262ad3e3f8b188480}
+      \strng{authorfullhash}{3ce4feea136f7f4ee132c83fd6e48abb}
+      \strng{authorfullhashraw}{3ce4feea136f7f4ee132c83fd6e48abb}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Review}
+      \field{number}{8}
+      \field{title}{Bartik Instruments: What, When, Why, and How}
+      \field{usera}{J}
+      \field{userd}{B}
+      \field{usere}{Goldsmith-Pinkham, Paul and Sorkin, Isaac and Swift, Henry}
+      \field{userf}{Goldsmith-Pinkham, Paul and Sorkin, Isaac and Swift, Henry}
+      \field{volume}{110}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{2586\bibrangedash 2624}
+      \range{pages}{39}
+      \keyw{en}
+    \endentry
+    \entry{dixcarneirosoaresulyssea2018economic}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e14b3be0e610d4b9cb46222a17bf3ed4}{%
+           family={Dix-Carneiro},
+           familyi={D\bibinithyphendelim C\bibinitperiod},
+           given={Rafael},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=445f41b20b023950e8f1c63ae6762fa6}{%
+           family={Soares},
+           familyi={S\bibinitperiod},
+           given={Rodrigo\bibnamedelima R.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10fcf9d33b2def85076e7b1bce65e0d9}{%
+           family={Ulyssea},
+           familyi={U\bibinitperiod},
+           given={Gabriel},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{97bf08a2d781513c46dbe19378d390d1}
+      \strng{fullhash}{a8298c234fbd9b60b3b428aa255ffd9f}
+      \strng{fullhashraw}{a8298c234fbd9b60b3b428aa255ffd9f}
+      \strng{bibnamehash}{a8298c234fbd9b60b3b428aa255ffd9f}
+      \strng{authorbibnamehash}{a8298c234fbd9b60b3b428aa255ffd9f}
+      \strng{authornamehash}{97bf08a2d781513c46dbe19378d390d1}
+      \strng{authorfullhash}{a8298c234fbd9b60b3b428aa255ffd9f}
+      \strng{authorfullhashraw}{a8298c234fbd9b60b3b428aa255ffd9f}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Economic Journal: Applied Economics}
+      \field{number}{4}
+      \field{title}{Economic Shocks and Crime: Evidence from the Brazilian Trade Liberalization}
+      \field{usera}{J}
+      \field{userd}{E}
+      \field{usere}{Dix-Carneiro, Rafael and Soares, Rodrigo R. and Ulyssea, Gabriel}
+      \field{userf}{Dix-Carneiro, Rafael and Soares, Rodrigo R. and Ulyssea, Gabriel}
+      \field{volume}{10}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{pages}{158\bibrangedash 195}
+      \range{pages}{38}
+      \keyw{en}
+    \endentry
+    \entry{oldenburg1999great}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4c0e009fbf44717ef1a0a14e8add3362}{%
+           family={Oldenburg},
+           familyi={O\bibinitperiod},
+           given={Ray},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Marlowe \& Company}%
+      }
+      \strng{namehash}{4c0e009fbf44717ef1a0a14e8add3362}
+      \strng{fullhash}{4c0e009fbf44717ef1a0a14e8add3362}
+      \strng{fullhashraw}{4c0e009fbf44717ef1a0a14e8add3362}
+      \strng{bibnamehash}{4c0e009fbf44717ef1a0a14e8add3362}
+      \strng{authorbibnamehash}{4c0e009fbf44717ef1a0a14e8add3362}
+      \strng{authornamehash}{4c0e009fbf44717ef1a0a14e8add3362}
+      \strng{authorfullhash}{4c0e009fbf44717ef1a0a14e8add3362}
+      \strng{authorfullhashraw}{4c0e009fbf44717ef1a0a14e8add3362}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Great Good Place}
+      \field{usera}{M}
+      \field{userd}{T}
+      \field{usere}{Oldenburg, Ray}
+      \field{userf}{Oldenburg, Ray}
+      \field{year}{1999}
+      \field{dateera}{ce}
+      \keyw{en}
+    \endentry
+    \entry{adao2019shiftshare}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d6cd36effb9fe74b394e8394e3e14539}{%
+           family={Adão},
+           familyi={A\bibinitperiod},
+           given={Rodrigo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18fccda38f1f34c8603a86fc23652233}{%
+           family={Kolesár},
+           familyi={K\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f005e6c3ec9ffdba7b3f5b87092c5b6a}{%
+           family={Morales},
+           familyi={M\bibinitperiod},
+           given={Eduardo},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{08580ac4c5408669f6957cf679a2e928}
+      \strng{fullhash}{be4a78d7eae77b03b22cd755b12d42e3}
+      \strng{fullhashraw}{be4a78d7eae77b03b22cd755b12d42e3}
+      \strng{bibnamehash}{be4a78d7eae77b03b22cd755b12d42e3}
+      \strng{authorbibnamehash}{be4a78d7eae77b03b22cd755b12d42e3}
+      \strng{authornamehash}{08580ac4c5408669f6957cf679a2e928}
+      \strng{authorfullhash}{be4a78d7eae77b03b22cd755b12d42e3}
+      \strng{authorfullhashraw}{be4a78d7eae77b03b22cd755b12d42e3}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Quarterly Journal of Economics}
+      \field{number}{4}
+      \field{title}{Shift-Share Designs: Theory and Inference}
+      \field{usera}{J}
+      \field{userd}{S}
+      \field{usere}{Adão, Rodrigo and Kolesár, Michal and Morales, Eduardo}
+      \field{userf}{Adão, Rodrigo and Kolesár, Michal and Morales, Eduardo}
+      \field{volume}{134}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{pages}{1949\bibrangedash 2010}
+      \range{pages}{62}
+      \verb{doi}
+      \verb 10.1093/qje/qjz025
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{feld1981foci}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=61365de1df95b48da33da2bbc615e49c}{%
+           family={Feld},
+           familyi={F\bibinitperiod},
+           given={Scott\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{61365de1df95b48da33da2bbc615e49c}
+      \strng{fullhash}{61365de1df95b48da33da2bbc615e49c}
+      \strng{fullhashraw}{61365de1df95b48da33da2bbc615e49c}
+      \strng{bibnamehash}{61365de1df95b48da33da2bbc615e49c}
+      \strng{authorbibnamehash}{61365de1df95b48da33da2bbc615e49c}
+      \strng{authornamehash}{61365de1df95b48da33da2bbc615e49c}
+      \strng{authorfullhash}{61365de1df95b48da33da2bbc615e49c}
+      \strng{authorfullhashraw}{61365de1df95b48da33da2bbc615e49c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Sociology}
+      \field{number}{5}
+      \field{title}{The Focused Organization of Social Ties}
+      \field{usera}{J}
+      \field{userd}{T}
+      \field{usere}{Feld, Scott L.}
+      \field{userf}{Feld, Scott L.}
+      \field{volume}{86}
+      \field{year}{1981}
+      \field{dateera}{ce}
+      \field{pages}{1015\bibrangedash 1035}
+      \range{pages}{21}
+      \keyw{en}
+    \endentry
+    \entry{bls2025oer}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1dd47a822521d43ebc6c17a6a2917cc6}{%
+           family={{U.S. Bureau of Labor Statistics}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{fullhash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{fullhashraw}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{bibnamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorbibnamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authornamehash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorfullhash}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \strng{authorfullhashraw}{1dd47a822521d43ebc6c17a6a2917cc6}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{BLS website}
+      \field{title}{Measuring Price Change in the {CPI}: Rent and Rental Equivalence}
+      \field{userd}{M}
+      \field{usere}{{U.S. Bureau of Labor Statistics}}
+      \field{userf}{{U.S. Bureau of Labor Statistics}}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.bls.gov/cpi/factsheets/owners-equivalent-rent-and-rent.htm
+      \endverb
+      \verb{url}
+      \verb https://www.bls.gov/cpi/factsheets/owners-equivalent-rent-and-rent.htm
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{ma2025market}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=5d38fb894354b4d9907d6b0143642902}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Xiao},
+           giveni={X\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=8fe684156df801ab301cf9940468e7aa}{%
+           family={Ma},
+           familyi={M\bibinitperiod},
+           given={Yueyuan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5068d15ae23110f6d674436dd13eaf05}{%
+           family={Tao},
+           familyi={T\bibinitperiod},
+           given={Hanyi},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6c7200e4b0c3035cbd3caf92698aa359}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yiran},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{49444e0a5d688c31a958bc42b99d4530}
+      \strng{fullhash}{d936553699363fa5998f0d1ed725ee25}
+      \strng{fullhashraw}{d936553699363fa5998f0d1ed725ee25}
+      \strng{bibnamehash}{d936553699363fa5998f0d1ed725ee25}
+      \strng{authorbibnamehash}{d936553699363fa5998f0d1ed725ee25}
+      \strng{authornamehash}{49444e0a5d688c31a958bc42b99d4530}
+      \strng{authorfullhash}{d936553699363fa5998f0d1ed725ee25}
+      \strng{authorfullhashraw}{d936553699363fa5998f0d1ed725ee25}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SSRN Electronic Journal}
+      \field{title}{Market Contraction and Innovation Divergence: The Impact of the US-China Trade War on Chinese Innovation}
+      \field{usera}{J}
+      \field{userd}{M}
+      \field{usere}{Ma, Xiao and Ma, Yueyuan and Tao, Hanyi and Zhang, Yiran}
+      \field{userf}{Ma, Xiao and Ma, Yueyuan and Tao, Hanyi and Zhang, Yiran}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.2139/ssrn.5455894
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{wang2009urbanization}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=175bd79522ae8a49de5e6061ee8279fe}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Ya\bibnamedelima Ping},
+           giveni={Y\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=21cc725f36c32ad8ef2066f2396ec9f9}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yanglin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10a2cee366ac03b20b80561e5c68f4c6}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jiansheng},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3d34f2feca7c6f0a7af71cb336c28eab}
+      \strng{fullhash}{d667878b457883b4c5dd4b3402b29c4d}
+      \strng{fullhashraw}{d667878b457883b4c5dd4b3402b29c4d}
+      \strng{bibnamehash}{d667878b457883b4c5dd4b3402b29c4d}
+      \strng{authorbibnamehash}{d667878b457883b4c5dd4b3402b29c4d}
+      \strng{authornamehash}{3d34f2feca7c6f0a7af71cb336c28eab}
+      \strng{authorfullhash}{d667878b457883b4c5dd4b3402b29c4d}
+      \strng{authorfullhashraw}{d667878b457883b4c5dd4b3402b29c4d}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Urban and Regional Research}
+      \field{number}{4}
+      \field{title}{Urbanization and Informal Development in China: Urban Villages in Shenzhen}
+      \field{usera}{J}
+      \field{userd}{U}
+      \field{usere}{Wang, Ya Ping and Wang, Yanglin and Wu, Jiansheng}
+      \field{userf}{Wang, Ya Ping and Wang, Yanglin and Wu, Jiansheng}
+      \field{volume}{33}
+      \field{year}{2009}
+      \field{dateera}{ce}
+      \field{pages}{957\bibrangedash 973}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1111/j.1468-2427.2009.00891.x
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{yan2022transition}{misc}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f8bb7d506bfa0093c531e150a67600b8}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Yamin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b77f93550c9142670da960add54a6055}{%
+           family={Cheng},
+           familyi={C\bibinitperiod},
+           given={Qianwei},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d602c606bbdac9b7503677f466b90bc}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Haoran},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1474870f3b18c56577a38a45e8fa5f0d}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Zhiling},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9382540233551f55099c5a479dbbf39f}{%
+           family={Shibasaki},
+           familyi={S\bibinitperiod},
+           given={Ryosuke},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b72a3a75c73129201a33c6e9576c4d3f}
+      \strng{fullhash}{17e78f8153e663e661cd1212042e7279}
+      \strng{fullhashraw}{17e78f8153e663e661cd1212042e7279}
+      \strng{bibnamehash}{17e78f8153e663e661cd1212042e7279}
+      \strng{authorbibnamehash}{17e78f8153e663e661cd1212042e7279}
+      \strng{authornamehash}{b72a3a75c73129201a33c6e9576c4d3f}
+      \strng{authorfullhash}{17e78f8153e663e661cd1212042e7279}
+      \strng{authorfullhashraw}{17e78f8153e663e661cd1212042e7279}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{SSRN Working Paper}
+      \field{title}{The Transition Tendency of `Urban Village' in China: An Empirical Study of Pioneer Cities}
+      \field{userd}{T}
+      \field{usere}{Yan, Yamin and Cheng, Qianwei and Zhang, Haoran and Guo, Zhiling and Shibasaki, Ryosuke}
+      \field{userf}{Yan, Yamin and Cheng, Qianwei and Zhang, Haoran and Guo, Zhiling and Shibasaki, Ryosuke}
+      \field{year}{2022}
+      \field{dateera}{ce}
+      \verb{doi}
+      \verb 10.2139/ssrn.4062384
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.2139/ssrn.4062384
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.2139/ssrn.4062384
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{zhang2025llm}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=28f91f3a4b62ce57b7a533e742e8aae1}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=917cb13cae0b5006b93e7d784a0f2760}{%
+           family={Kwan},
+           familyi={K\bibinitperiod},
+           given={Mei-Po},
+           giveni={M\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=679c56b949a2f8d3a17c623a49f62c6c}{%
+           family={Fang},
+           familyi={F\bibinitperiod},
+           given={Libo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{37b129e5ba18129997157b8fc224c8d9}
+      \strng{fullhash}{ed8931bf05485683b794309d7df4c4c7}
+      \strng{fullhashraw}{ed8931bf05485683b794309d7df4c4c7}
+      \strng{bibnamehash}{ed8931bf05485683b794309d7df4c4c7}
+      \strng{authorbibnamehash}{ed8931bf05485683b794309d7df4c4c7}
+      \strng{authornamehash}{37b129e5ba18129997157b8fc224c8d9}
+      \strng{authorfullhash}{ed8931bf05485683b794309d7df4c4c7}
+      \strng{authorfullhashraw}{ed8931bf05485683b794309d7df4c4c7}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Data}
+      \field{title}{An {LLM}-Driven Dataset on the Spatiotemporal Distributions of Street and Neighborhood Crime in China}
+      \field{usera}{J}
+      \field{userd}{A}
+      \field{usere}{Zhang, Yan and Kwan, Mei-Po and Fang, Libo}
+      \field{userf}{Zhang, Yan and Kwan, Mei-Po and Fang, Libo}
+      \field{volume}{12}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{pages}{467}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41597-025-04757-8
+      \endverb
+      \keyw{en}
+    \endentry
+    \entry{wu2025uvframework}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d1f7f0d388a46f5431e91695caae4909}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Yizhen},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a1f520c1123587494e9d4c74ae07269}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Xi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a078b5f9e219750df0e6b4771a07569e}{%
+           family={Gong},
+           familyi={G\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2402758601f76facfc68a45d70102cc8}{%
+           family={Mwaniki},
+           familyi={M\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4cf10538767f6727ab577822d82ccf36}
+      \strng{fullhash}{071b85d8fde44b2226700f6b837ab66a}
+      \strng{fullhashraw}{071b85d8fde44b2226700f6b837ab66a}
+      \strng{bibnamehash}{071b85d8fde44b2226700f6b837ab66a}
+      \strng{authorbibnamehash}{071b85d8fde44b2226700f6b837ab66a}
+      \strng{authornamehash}{4cf10538767f6727ab577822d82ccf36}
+      \strng{authorfullhash}{071b85d8fde44b2226700f6b837ab66a}
+      \strng{authorfullhashraw}{071b85d8fde44b2226700f6b837ab66a}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1569-8432}
+      \field{journaltitle}{International Journal of Applied Earth Observation and Geoinformation}
+      \field{title}{A Flexible Framework for Identifying Urban Villages Using {Sentinel}-2 Observations and Deep Learning}
+      \field{usera}{J}
+      \field{userd}{A}
+      \field{usere}{Wu, Yizhen and Li, Xi and Gong, Yu and Mwaniki, Dennis}
+      \field{userf}{Wu, Yizhen and Li, Xi and Gong, Yu and Mwaniki, Dennis}
+      \field{volume}{141}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{pages}{104631}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jag.2025.104631
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S156984322500278X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S156984322500278X
+      \endverb
+      \keyw{en}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
