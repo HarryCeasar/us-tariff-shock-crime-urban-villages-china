@@ -13,12 +13,12 @@ from docx.shared import Inches, Pt
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 
 # Setup paths
-ROOT = r"e:\Codex\Tariff_shock_crime_and_Infrastructure"
-OUT_TABLE = os.path.join(ROOT, "table/main")
+ROOT = r"."
+OUT_TABLE = os.path.join(ROOT, "output_tables")
 os.makedirs(OUT_TABLE, exist_ok=True)
 
 # Load data
-data_csv = os.path.join(ROOT, "grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv")
+data_csv = os.path.join(ROOT, "input_data", "grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv")
 print(f"Loading CSV: {data_csv}")
 df = pd.read_csv(data_csv, encoding='utf-8')
 

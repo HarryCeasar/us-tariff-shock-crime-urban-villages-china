@@ -9,12 +9,12 @@ library(parallel)
 # Configuration
 N_PERMUTATIONS <- 1000
 N_CORES <- 10  # Use 10 cores for parallel processing
-DATA_FILE <- "e:/Codex/Tariff_shock_crime_and_Infrastructure/grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv"
-OUTPUT_FILE <- "e:/Codex/Tariff_shock_crime_and_Infrastructure/table/main/ppml_100m_uv_totalcrime_spatial_permutation_v1_r.csv"
-PLOT_FILE <- "e:/Codex/Tariff_shock_crime_and_Infrastructure/figure/eventstudy/spatial_permutation_scatter_v1.png"
+DATA_FILE <- "input_data/grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv"
+OUTPUT_FILE <- "output_tables/ppml_100m_uv_totalcrime_spatial_permutation_v1_r.csv"
+PLOT_FILE <- "./output_figures/spatial_permutation_scatter_v1.png"
 BASELINE_COEF_FALLBACK <- 0.1760159520875316
-TEMP_DATA_FILE <- "e:/Codex/Tariff_shock_crime_and_Infrastructure/table/main/temp_perm_data.rds"
-TEMP_COUNTY_FILE <- "e:/Codex/Tariff_shock_crime_and_Infrastructure/table/main/temp_county_tariffs.rds"
+TEMP_DATA_FILE <- "output_tables/temp_perm_data.rds"
+TEMP_COUNTY_FILE <- "output_tables/temp_county_tariffs.rds"
 
 set.seed(233)
 permutation_seeds <- sample.int(.Machine$integer.max, N_PERMUTATIONS)
@@ -151,7 +151,7 @@ run_permutation <- function(iter, temp_data_file, temp_county_file) {
       cat(sprintf("Iteration %d: Coefficient not found\n", iter))
       write(
         sprintf("Iteration %d coef rows: %s\n", iter, paste(rownames(coef_table), collapse = " | ")),
-        file = "e:/Codex/Tariff_shock_crime_and_Infrastructure/table/main/perm_errors.log",
+        file = "output_tables/perm_errors.log",
         append = TRUE
       )
       return(data.table(iter = iter, b = NA_real_, se = NA_real_, p = NA_real_))
@@ -159,7 +159,7 @@ run_permutation <- function(iter, temp_data_file, temp_county_file) {
   }, error = function(e) {
     # Write error to a log file for debugging
     error_msg <- sprintf("Iteration %d ERROR: %s\n", iter, conditionMessage(e))
-    write(error_msg, file = "e:/Codex/Tariff_shock_crime_and_Infrastructure/table/main/perm_errors.log", append = TRUE)
+    write(error_msg, file = "output_tables/perm_errors.log", append = TRUE)
     return(data.table(iter = iter, b = NA_real_, se = NA_real_, p = NA_real_))
   })
   

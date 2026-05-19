@@ -1,10 +1,10 @@
 clear all
 set more off
 
-global ROOT "e:/Codex/Tariff_shock_crime_and_Infrastructure"
-global OUT_TABLE "$ROOT/table/main"
+global ROOT "."
+global OUT_TABLE "$ROOT/output_tables"
 global LOGFILE "$OUT_TABLE/task2_to_5_robustness_checks.log"
-global STTMP "E:/stata_tmp"
+global STTMP "$ROOT/tmp"
 
 capture mkdir "$STTMP"
 capture noisily set tmpdir "$STTMP"
@@ -15,7 +15,7 @@ log using "$LOGFILE", text replace
 capture which ppmlhdfe
 if _rc ssc install ppmlhdfe, replace
 
-local DATA "$ROOT/grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv"
+local DATA "$ROOT/input_data/grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv"
 local PPML_OPTS "separation(fe ir) keepsingletons tolerance(1e-6)"
 
 import delimited "`DATA'", clear varnames(1) encoding(utf8)

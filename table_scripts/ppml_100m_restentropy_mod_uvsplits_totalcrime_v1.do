@@ -4,10 +4,10 @@
 clear all
 set more off
 
-local ROOT "e:/Codex/Tariff_shock_crime_and_Infrastructure"
-local MAIN_CSV "`root'/grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv"
-local CTRL_CSV "`root'/grid_halfyear_panel_100m_controls_housing3nn_noradius_cuisine_ntl_v1.csv"
-local OUT_TABLE "`root'/table/main"
+local root "."
+local MAIN_CSV "`root'/input_data/grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv"
+local CTRL_CSV "`root'/input_data/grid_halfyear_panel_100m_controls_housing3nn_noradius_cuisine_ntl_v1.csv"
+local OUT_TABLE "`root'/output_tables"
 local LOGFILE "`out_table'/ppml_100m_restentropy_mod_uvsplits_totalcrime_v1.log"
 
 * Create output directory (assumed to exist)

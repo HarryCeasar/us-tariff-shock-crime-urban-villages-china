@@ -1,8 +1,8 @@
 clear all
 set more off
 
-global ROOT "e:/Codex/Tariff_shock_crime_and_Infrastructure"
-global OUT_TABLE "$ROOT/table/main"
+global ROOT "."
+global OUT_TABLE "$ROOT/output_tables"
 global LOGFILE "$OUT_TABLE/baseline_diff_uv_vs_urban_nonuv_100m_v1.log"
 
 capture mkdir "$ROOT/table"
@@ -14,8 +14,8 @@ log using "$LOGFILE", text replace
 capture which reghdfe
 if _rc ssc install reghdfe, replace
 
-local DATA_CSV "$ROOT/grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv"
-local DATA_DTA "$ROOT/tmp_cache/grid_halfyear_panel_100m_v3_cache.dta"
+local DATA_CSV "$ROOT/input_data/grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv"
+local DATA_DTA "$ROOT/input_data/grid_halfyear_panel_100m_v3_cache.dta"
 capture mkdir "$ROOT/tmp_cache"
 
 if (fileexists("`DATA_DTA'")) {

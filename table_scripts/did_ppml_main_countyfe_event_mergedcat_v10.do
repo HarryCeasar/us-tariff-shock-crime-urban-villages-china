@@ -1,8 +1,8 @@
 clear all
 set more off
 
-global ROOT "e:/Codex/Tariff_shock_crime_and_Infrastructure"
-global OUT_TABLE "$ROOT/table/main"
+global ROOT "."
+global OUT_TABLE "$ROOT/output_tables"
 global LOGFILE "$OUT_TABLE/did_ppml_main_countyfe_event_mergedcat_v10.log"
 
 capture mkdir "$ROOT/table"
@@ -61,9 +61,9 @@ end
 program define run_main_multiscale_countyfe
     estimates clear
 
-    local f100 "$ROOT/grid_halfyear_panel_100m_fullgrid_popannual_crime_2015_2020_popgt1_allyears_dist_casesubgroups_judicial_exposure_v3.csv"
-    local f500 "$ROOT/grid_halfyear_panel_500m_from100m_popgt1_allyears_dist_casesubgroups_judicial_exposure_v3.csv"
-    local f1k  "$ROOT/grid_halfyear_panel_1000m_from100m_popgt1_allyears_dist_casesubgroups_judicial_exposure_v3.csv"
+    local f100 "$ROOT/input_data/grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv"
+    local f500 "$ROOT/input_data/grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv"
+    local f1k  "$ROOT/input_data/grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv"
 
     local tags "100m 500m 1km"
     local files `"`f100' `f500' `f1k'"'
@@ -108,9 +108,9 @@ end
 program define run_event_study_uv_countyfe
     tempfile ev100 ev500 ev1k
 
-    local f100 "$ROOT/grid_halfyear_panel_100m_fullgrid_popannual_crime_2015_2020_popgt1_allyears_dist_casesubgroups_judicial_exposure_v3.csv"
-    local f500 "$ROOT/grid_halfyear_panel_500m_from100m_popgt1_allyears_dist_casesubgroups_judicial_exposure_v3.csv"
-    local f1k  "$ROOT/grid_halfyear_panel_1000m_from100m_popgt1_allyears_dist_casesubgroups_judicial_exposure_v3.csv"
+    local f100 "$ROOT/input_data/grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv"
+    local f500 "$ROOT/input_data/grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv"
+    local f1k  "$ROOT/input_data/grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv"
 
     local tags "100m 500m 1km"
     local files `"`f100' `f500' `f1k'"'
@@ -170,9 +170,9 @@ program define run_event_study_uv_countyfe
 end
 
 program define run_merged_cat_three_scales
-    local f100 "$ROOT/grid_halfyear_panel_100m_fullgrid_popannual_crime_2015_2020_popgt1_allyears_dist_casesubgroups_judicial_exposure_v3.csv"
-    local f500 "$ROOT/grid_halfyear_panel_500m_from100m_popgt1_allyears_dist_casesubgroups_judicial_exposure_v3.csv"
-    local f1k  "$ROOT/grid_halfyear_panel_1000m_from100m_popgt1_allyears_dist_casesubgroups_judicial_exposure_v3.csv"
+    local f100 "$ROOT/input_data/grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv"
+    local f500 "$ROOT/input_data/grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv"
+    local f1k  "$ROOT/input_data/grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv"
 
     local tags "100m 500m 1km"
     local files `"`f100' `f500' `f1k'"'

@@ -6,12 +6,12 @@ library(data.table)
 library(tidyverse)
 library(officer)
 
-ROOT <- "e:/Codex/Tariff_shock_crime_and_Infrastructure"
-OUT_TABLE <- file.path(ROOT, "table/main")
+ROOT <- "."
+OUT_TABLE <- file.path(ROOT, "output_tables")
 dir.create(OUT_TABLE, showWarnings = FALSE, recursive = TRUE)
 
 # Load data
-data_csv <- file.path(ROOT, "grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv")
+data_csv <- file.path(ROOT, "input_data", "grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv")
 cat("Loading CSV:", data_csv, "\n")
 df <- fread(data_csv, encoding = "UTF-8")
 

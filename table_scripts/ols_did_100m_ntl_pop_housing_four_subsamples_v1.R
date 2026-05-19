@@ -2,10 +2,10 @@ library(data.table)
 library(fixest)
 
 # Set paths
-ROOT <- "e:/Codex/Tariff_shock_crime_and_Infrastructure"
-MAIN_CSV <- file.path(ROOT, "grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv")
-CTRL_CSV <- file.path(ROOT, "grid_halfyear_panel_100m_controls_housing3nn_noradius_cuisine_ntl_v1.csv")
-OUT_TABLE <- file.path(ROOT, "table/main")
+ROOT <- "."
+MAIN_CSV <- file.path(ROOT, "input_data", "grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv")
+CTRL_CSV <- file.path(ROOT, "input_data", "grid_halfyear_panel_100m_controls_housing3nn_noradius_cuisine_ntl_v1.csv")
+OUT_TABLE <- file.path(ROOT, "output_tables")
 LOGFILE <- file.path(OUT_TABLE, "ols_did_100m_ntl_pop_housing_four_subsamples_v1.log")
 
 # Create output directory

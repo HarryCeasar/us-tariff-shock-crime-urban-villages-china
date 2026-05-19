@@ -5,15 +5,15 @@ suppressPackageStartupMessages({
   lapply(pkgs, library, character.only = TRUE)
 })
 
-root <- "e:/Codex/Tariff_shock_crime_and_Infrastructure"
-out_dir <- file.path(root, "table", "main", "maps_prd_gz_prefer500m_v3")
+ROOT <- "."
+out_dir <- file.path(ROOT, "output_figures")
 dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
 
-file_100m_h <- file.path(root, "grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv")
-file_100m_base <- file.path(root, "grid_halfyear_panel_100m_fullgrid_popannual_crime_2015_2020_popgt1_allyears_dist_casesubgroups_judicial_exposure_v3.csv")
-file_100m_crime <- file.path(root, "grid_halfyear_panel_100m_fullgrid_popannual_crime_2015_2020_popgt1_allyears_dist_casesubgroups_judicial_exposure_v3.csv")
-file_1km_h <- file.path(root, "grid_halfyear_panel_1000m_from100m_popgt1_allyears_dist_casesubgroups_judicial_exposure_v3_with_housing_direct1km_noradius.csv")
-file_1km_c <- file.path(root, "grid_halfyear_panel_1000m_judicial_exposure_v3_with_cuisine2017.csv")
+file_100m_h <- file.path(ROOT, "input_data", "grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv")
+file_100m_base <- file.path(ROOT, "input_data", "grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv")
+file_100m_crime <- file.path(ROOT, "input_data", "grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv")
+file_1km_h <- file.path(ROOT, "input_data", "grid_halfyear_panel_100m_judicial_exposure_v3_with_housing_noradiusmerge_v3.csv")
+file_1km_c <- file.path(ROOT, "input_data", "grid_halfyear_panel_100m_controls_housing3nn_noradius_cuisine_ntl_v1.csv")
 
 need_files <- c(file_100m_h, file_100m_base, file_100m_crime, file_1km_h, file_1km_c)
 for (f in need_files) if (!file.exists(f)) stop("Missing file: ", f)
